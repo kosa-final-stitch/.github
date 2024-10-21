@@ -42,9 +42,9 @@
 
   <div style="display: flex;">
     <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <!--img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"-->
   </div>
 
   ### 🛠 Back-End
@@ -55,7 +55,18 @@
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </div>
+  
+  ### 🌐 API
+
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/국민내일배움카드%20훈련과정-blue?style=for-the-badge">
+  </div>
+
+  ### 📂 Database
+
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </div>
 
   ### 💻 IDE & 서버
